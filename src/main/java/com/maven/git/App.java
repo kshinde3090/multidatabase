@@ -10,7 +10,7 @@ public class App
     {
     	//kishor
         System.out.println( "first git app" );
-        
+        // comment added by another developer
         System.out.println( "added by other developer" );
     }
 }
