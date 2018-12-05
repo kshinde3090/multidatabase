@@ -13,5 +13,6 @@ public class App
         // comment added by another developer
         System.out.println( "added by other developer" );
         System.out.println("added by me");
+        System.out.println("added by myside");
     }
 }
